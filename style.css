@@ -1,0 +1,71 @@
+body
+{
+    text-align: center;
+    background: lightblue;
+}
+marquee
+{
+    font-size: 50px;
+    background:linear-gradient(to left ,#74e893,#75aaeb,#e4f07a );
+}
+img
+{
+    height: 250px;
+    width: 250px;
+}
+h1
+{
+    font-size: 35px;
+}
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#school
+{
+   background:linear-gradient(to bottom right ,#74e893,#75aaeb,#e4f07a );
+}
+#campuslife
+{
+   background:linear-gradient(to bottom right ,#f7d065,#ebba34,#fcb900 );
+}
+#contact
+{
+   background:linear-gradient(to bottom left ,#a7e8b8,#64d982,#44ad5f );
+}
+#alumni
+{
+   background:linear-gradient(to bottom left ,#afc3e3,#81a7e3,#477ed6 );
+}
+#gallery
+{
+   background:linear-gradient(to bottom right ,#edafaf,#db7d7d,#e35b5b );
+}
+#house
+{
+   background:linear-gradient(to bottom right ,#5f6fe3,#328041,#fcb900,#ff0000 );
+}
+#achivements
+{
+   background:linear-gradient(to bottom right ,#b5ebc3,#91e3a6,#5fcf7c );
+}
+#whatsnew
+{
+  background: linear-gradient(to bottom left,#8ee6b4,#89e0af,#e88787,#f27272)
+}
+
+#alumni_img
+{
+  height: 280px;
+    width: 250px;
+}
+
+
+
+
+
+
+
+
